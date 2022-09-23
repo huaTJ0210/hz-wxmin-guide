@@ -1,0 +1,5 @@
+/* pages/home/home.wxss */
+.home-header{
+  height: 40px;
+  background-color: red;
+}

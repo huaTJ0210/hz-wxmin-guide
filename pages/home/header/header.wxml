@@ -1,0 +1,6 @@
+<!--pages/home/header/header.wxml-->
+<view>
+<text>home-header cpn</text>
+<button bindtap="onTap">向父组件发送事件</button>
+<slot></slot>
+</view>

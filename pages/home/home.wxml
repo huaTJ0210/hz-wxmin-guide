@@ -1,0 +1,5 @@
+<!--pages/home/home.wxml-->
+<view>
+ <text>home</text>
+ <home-header bind:myEvent="myEvent">header-footer</home-header>
+</view>
